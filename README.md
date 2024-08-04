@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a final project in the React course I've just finished
+- 🌱 Currently learning more about React
+
+  
 
 <!--
 **nomadcharm/nomadcharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
