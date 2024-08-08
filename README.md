@@ -1,6 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a final project in the React course I've just finished
-- 🌱 Currently learning more about React
+- 🌱 Just getting started
 
   
 
