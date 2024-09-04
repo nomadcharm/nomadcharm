@@ -2,7 +2,7 @@
 
 ***Academic copywriter turn frontend-developer***
 
-#### My stack: 
+### My stack: 
 <img src="https://img.shields.io/badge/React-58c4dc"/> <img src="https://img.shields.io/badge/ReactRouter-f44250"/> <img src="https://img.shields.io/badge/ReactQuery-f05539"/> <img src="https://img.shields.io/badge/JavaScript-f1e05a"/> <img src="https://img.shields.io/badge/TypeScript-3178c6"/> 
 
 <img src="https://img.shields.io/badge/HTML-e34c26"/> <img src="https://img.shields.io/badge/CSS-563d7c"/> <img src="https://img.shields.io/badge/SCSS/SASS-d888b0"/> <img src="https://img.shields.io/badge/BEM-221f1f"/> 
