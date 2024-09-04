@@ -20,8 +20,7 @@
 <img src="https://img.shields.io/badge/npm-c53635"/> 
 <img src="https://img.shields.io/badge/git-e84e31"/> 
 
-<img src="https://img.shields.io/badge/Jest-c21325"/> 
-<img src="https://img.shields.io/badge/Cypress-85ddb9"/> 
+<img src="https://img.shields.io/badge/Jest-c21325"/> <img src="https://img.shields.io/badge/Cypress-85ddb9"/> 
 
 - 🔭 I’m currently working on [Organick](https://github.com/nomadcharm/organick) and working out some kinks on [Cinema guide](https://github.com/nomadcharm/cinema-guide)
 
