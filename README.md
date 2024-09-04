@@ -1,22 +1,34 @@
 ## Anna Yakubovich | Frontend developer
 
-Academic copywriter turn frontend-developer
+***Academic copywriter turn frontend-developer***
 
 #### My stack: 
-<img src="https://img.shields.io/badge/React-61DAFB"/><img src="https://img.shields.io/badge/React Query-FF4154"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E"/> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6"/> 
-<img src="https://img.shields.io/badge/scss-CD6799"/> 
-<img src="https://img.shields.io/badge/BEM-C0C0C0"/> 
-<img src="https://img.shields.io/badge/Webpack-8ED5FA"/> 
-<img src="https://img.shields.io/badge/npm-CB3837"/> 
-<img src="https://img.shields.io/badge/git-F05133"/> 
-<img src="https://img.shields.io/badge/Jest-99425B"/> 
+<img src="https://img.shields.io/badge/React-58c4dc"/>
+<img src="https://img.shields.io/badge/ReactRouter-f44250"/>
+<img src="https://img.shields.io/badge/ReactQuery-f05539"/>
+<img src="https://img.shields.io/badge/JavaScript-f1e05a"/> 
+<img src="https://img.shields.io/badge/TypeScript-3178c6"/> 
+
+<img src="https://img.shields.io/badge/HTML-e34c26"/>
+<img src="https://img.shields.io/badge/CSS-563d7c"/>
+<img src="https://img.shields.io/badge/SCSS/SASS-d888b0"/> 
+<img src="https://img.shields.io/badge/BEM-221f1f"/> 
+
+<img src="https://img.shields.io/badge/Webpack-5299c8"/> 
+<img src="https://img.shields.io/badge/Vite-aa4dfe"/> 
+<img src="https://img.shields.io/badge/Gulp-cf4647"/> 
+<img src="https://img.shields.io/badge/npm-c53635"/> 
+<img src="https://img.shields.io/badge/git-e84e31"/> 
+
+<img src="https://img.shields.io/badge/Jest-c21325"/> 
+<img src="https://img.shields.io/badge/Cypress-85ddb9"/> 
 
 - 🔭 I’m currently working on [Organick](https://github.com/nomadcharm/organick) and working out some kinks on [Cinema guide](https://github.com/nomadcharm/cinema-guide)
 
 - ⚡ Fun fact: HTML-letters are works of <s>table</s> art
 
-[![Рейтинг языков](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadcharm&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats) 
+[![Рейтинг языков](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadcharm&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 
 <!--
