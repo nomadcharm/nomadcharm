@@ -15,9 +15,9 @@
 
 
 
+![](https://www.codewars.com/users/nomadcharm/badges/micro?theme=light)
 <!--
 ![](https://komarev.com/ghpvc/?username=nomadcharm)
-![](https://www.codewars.com/users/nomadcharm/badges/micro?theme=light)
 **nomadcharm/nomadcharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
