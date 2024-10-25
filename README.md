@@ -1,9 +1,5 @@
 ## Anna Yakubovich | Frontend developer
 
-***Academic copywriter turn frontend-developer***
-- 🔭 I’m currently working on [Organick](https://github.com/nomadcharm/organick) and working out some kinks on [Cinema guide](https://github.com/nomadcharm/cinema-guide)
-- 🧠  I'm learning Redux
-
 ### 🛠️ My stack: 
 <img src="https://img.shields.io/badge/React-58c4dc"/> <img src="https://img.shields.io/badge/ReactRouter-f44250"/> <img src="https://img.shields.io/badge/ReactQuery-f05539"/> <img src="https://img.shields.io/badge/JavaScript-f1e05a"/> <img src="https://img.shields.io/badge/TypeScript-3178c6"/> 
 
