@@ -1,7 +1,7 @@
 ## Anna Yakubovich | Frontend developer
 
 ### 🛠️ My stack: 
-<img src="https://img.shields.io/badge/React-58c4dc"/> <img src="https://img.shields.io/badge/ReactRouter-f44250"/> <img src="https://img.shields.io/badge/ReactQuery-f05539"/> <img src="https://img.shields.io/badge/Redux Toolkit-7248B6"/> <img src="https://img.shields.io/badge/JavaScript-f1e05a"/> <img src="https://img.shields.io/badge/TypeScript-3178c6"/> 
+<img src="https://img.shields.io/badge/React-58c4dc"/> <img src="https://img.shields.io/badge/Next.js-2e2e2e"/> <img src="https://img.shields.io/badge/Redux Toolkit-7248B6"/> <img src="https://img.shields.io/badge/JavaScript-f1e05a"/> <img src="https://img.shields.io/badge/TypeScript-3178c6"/> 
 
 <img src="https://img.shields.io/badge/HTML-e34c26"/> <img src="https://img.shields.io/badge/CSS-563d7c"/> <img src="https://img.shields.io/badge/SCSS/SASS-d888b0"/> <img src="https://img.shields.io/badge/BEM-221f1f"/> <img src="https://img.shields.io/badge/Bootstrap-8512f7"/> <img src="https://img.shields.io/badge/TailwindCss-38bdf8"/>
 
