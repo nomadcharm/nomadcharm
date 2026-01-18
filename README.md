@@ -7,10 +7,13 @@
 
 <img src="https://img.shields.io/badge/Webpack-5299c8"/> <img src="https://img.shields.io/badge/Vite-aa4dfe"/> <img src="https://img.shields.io/badge/Gulp-cf4647"/> <img src="https://img.shields.io/badge/npm-c53635"/> <img src="https://img.shields.io/badge/git-e84e31"/>
 
-<!-- [![Рейтинг языков](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadcharm&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Рейтинг языков](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadcharm&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://www.codewars.com/users/nomadcharm/badges/micro?theme=light)
 
+
 <!--
 ![](https://komarev.com/ghpvc/?username=nomadcharm)
+[CodePen](https://codepen.io/nomadcharm/pens/popular)
 -->
